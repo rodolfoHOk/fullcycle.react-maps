@@ -11,8 +11,14 @@
 - Typescript : Linguagem programação
 - ReactJs : Biblioteca de criação de interfaces
 - Material UI : Biblioteca de componentes
+- WebSockets : Comunicação bidirecional realtime
+- Google Maps API : Mapas de trajetos
 
 ### 📚 bibliotecas adicionais 🗃️
+
+- @mui/icons-material
+- axios
+- lodash
 
 ## 📖 Guia 📃
 
@@ -45,10 +51,10 @@
 
         npm install socket.io-client@4.5.1
 
-## 🔗 Links úteis ✨
-
 ## 🔥 Repositórios da Imersão FullCycle 8 ✨
 
 - [Arquitetura Limpa com Typescript](https://github.com/rodolfoHOk/fullcycle.typescrit-clean-arch)
 
 - [React Maps](https://github.com/rodolfoHOk/fullcycle.react-maps)
+
+- [Go Iniciando do Zero](https://github.com/rodolfoHOk/fullcycle.go-init-from-zero)
